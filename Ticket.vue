@@ -1,3 +1,6 @@
 <template>
-    <div>Ticket</div>
+    <div>Ticket
+        <h1>TEST TICKET</h1>
+    </div>
+    
 </template>
